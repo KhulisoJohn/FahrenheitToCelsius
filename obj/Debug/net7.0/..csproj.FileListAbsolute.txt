@@ -1,0 +1,7 @@
+/home/khulysojohn/development/training/FahrenheitToCelsius/obj/Debug/net7.0/..GeneratedMSBuildEditorConfig.editorconfig
+/home/khulysojohn/development/training/FahrenheitToCelsius/obj/Debug/net7.0/..AssemblyInfoInputs.cache
+/home/khulysojohn/development/training/FahrenheitToCelsius/obj/Debug/net7.0/..AssemblyInfo.cs
+/home/khulysojohn/development/training/FahrenheitToCelsius/obj/Debug/net7.0/..csproj.CoreCompileInputs.cache
+/home/khulysojohn/development/training/FahrenheitToCelsius/obj/Debug/net7.0/..dll
+/home/khulysojohn/development/training/FahrenheitToCelsius/obj/Debug/net7.0/refint/..dll
+/home/khulysojohn/development/training/FahrenheitToCelsius/obj/Debug/net7.0/..pdb

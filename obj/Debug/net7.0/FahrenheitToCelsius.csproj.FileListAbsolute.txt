@@ -1,0 +1,14 @@
+/home/khulysojohn/development/training/FahrenheitToCelsius/bin/Debug/net7.0/FahrenheitToCelsius
+/home/khulysojohn/development/training/FahrenheitToCelsius/bin/Debug/net7.0/FahrenheitToCelsius.deps.json
+/home/khulysojohn/development/training/FahrenheitToCelsius/bin/Debug/net7.0/FahrenheitToCelsius.runtimeconfig.json
+/home/khulysojohn/development/training/FahrenheitToCelsius/bin/Debug/net7.0/FahrenheitToCelsius.dll
+/home/khulysojohn/development/training/FahrenheitToCelsius/bin/Debug/net7.0/FahrenheitToCelsius.pdb
+/home/khulysojohn/development/training/FahrenheitToCelsius/obj/Debug/net7.0/FahrenheitToCelsius.GeneratedMSBuildEditorConfig.editorconfig
+/home/khulysojohn/development/training/FahrenheitToCelsius/obj/Debug/net7.0/FahrenheitToCelsius.AssemblyInfoInputs.cache
+/home/khulysojohn/development/training/FahrenheitToCelsius/obj/Debug/net7.0/FahrenheitToCelsius.AssemblyInfo.cs
+/home/khulysojohn/development/training/FahrenheitToCelsius/obj/Debug/net7.0/FahrenheitToCelsius.csproj.CoreCompileInputs.cache
+/home/khulysojohn/development/training/FahrenheitToCelsius/obj/Debug/net7.0/FahrenheitToCelsius.dll
+/home/khulysojohn/development/training/FahrenheitToCelsius/obj/Debug/net7.0/refint/FahrenheitToCelsius.dll
+/home/khulysojohn/development/training/FahrenheitToCelsius/obj/Debug/net7.0/FahrenheitToCelsius.pdb
+/home/khulysojohn/development/training/FahrenheitToCelsius/obj/Debug/net7.0/FahrenheitToCelsius.genruntimeconfig.cache
+/home/khulysojohn/development/training/FahrenheitToCelsius/obj/Debug/net7.0/ref/FahrenheitToCelsius.dll
