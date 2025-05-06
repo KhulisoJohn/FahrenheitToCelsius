@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Yu1aZgfEH61DqVzfAeMnIJbShiomzPnVHchcCzTJuAmE+uwzo2ByWP9gnwnAOTXqS8VcYxYM3I55TNkVhcQ0vg==",
+  "dgSpecHash": "XE45UkmN7Sc=",
   "success": true,
   "projectFilePath": "/home/khulysojohn/development/training/FahrenheitToCelsius/FahrenheitToCelsius.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/khulysojohn/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/khulysojohn/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/khulysojohn/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
