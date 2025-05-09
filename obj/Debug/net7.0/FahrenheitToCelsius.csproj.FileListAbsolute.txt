@@ -12,3 +12,4 @@
 /home/khulysojohn/development/training/FahrenheitToCelsius/obj/Debug/net7.0/FahrenheitToCelsius.pdb
 /home/khulysojohn/development/training/FahrenheitToCelsius/obj/Debug/net7.0/FahrenheitToCelsius.genruntimeconfig.cache
 /home/khulysojohn/development/training/FahrenheitToCelsius/obj/Debug/net7.0/ref/FahrenheitToCelsius.dll
+/home/khulysojohn/development/training/FahrenheitToCelsius/obj/Debug/net7.0/FahrenheitToCelsius.sourcelink.json
